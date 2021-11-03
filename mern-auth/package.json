@@ -27,7 +27,7 @@
     "passport-spotify": "^1.1.0",
     "request": "latest",
     "spotify-web-api-node": "^4.0.0",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "proxy": "localhost:3000",
   "devDependencies": {
